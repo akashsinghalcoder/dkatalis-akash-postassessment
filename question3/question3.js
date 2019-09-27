@@ -8,7 +8,7 @@ const InputFieldList = {
   status: "status"
 };
 
-export default class Login extends React.Component {
+export default class EntityForm extends React.Component {
   constructor(props) {
     super(props);
   }
